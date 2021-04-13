@@ -45,3 +45,15 @@
 .searchbar {
   justify-content: center;
 }
+
+.jumbotron {
+  color: white;
+  background-color: blue
+
+}
+
+.headings {
+  font-weight: bold;
+  font-size: 150%;
+
+}
